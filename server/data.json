@@ -1,0 +1,19 @@
+
+[
+    {
+      "id": 1,
+      "pokemonOwnerName": "Keiko",
+      "pokemons": [
+        {
+          "id": 1,
+          "pokemonName": "Pikachu",
+          "pokemonAbility": "Lightning Rod",
+          "initialPositionX": 0,
+          "initialPositionY": 0,
+          "speed": 10,
+          "direction": "north"
+        }
+      ]
+    }
+  ]
+  
